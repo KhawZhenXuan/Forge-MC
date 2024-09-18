@@ -3,7 +3,7 @@ README.md
 These are Forge Server files extracted through Forge Installer
 Version: 1.20.4
 
-If you need help with your Forge server, join our Discord or forums:
+If you need help with your Forge server, join Their Discord or forums:
 - https://discord.minecraftforge.net
 - https://forums.minecraftforge.net
 
